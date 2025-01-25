@@ -1,4 +1,10 @@
 body {
+    body {
+    background-image: url('Blacklabel.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
